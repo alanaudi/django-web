@@ -1,10 +1,16 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
-ReactDOM.render(
-  <div>
-      <h1>React template</h1>
-  </div>,
-  document.getElementById("root")
 
+function App() {
+  return (
+    <div>react functional alanaudi</div>
+  )
+}
+
+
+ReactDOM.render(
+  <App/>,
+  document.getElementById("root")
 )
+
