@@ -7,3 +7,6 @@ __pycache__/
 
 # Python virtualenv
 .venv
+
+# Dependencies
+node_modules/
