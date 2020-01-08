@@ -25,7 +25,7 @@ SECRET_KEY = ')7xeeurqq_2n&ttft0ht(2us5h$8s1n^b!_8%!qa&ah9xlx^xb'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['merry.ee.ncku.edu.tw']
 
 
 # Application definition
