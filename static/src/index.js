@@ -1,3 +1,10 @@
-const x = "test string"
+import React from 'react';
+import ReactDOM from 'react-dom';
 
-alert(x);
+ReactDOM.render(
+  <div>
+      <h1>React template</h1>
+  </div>,
+  document.getElementById("root")
+
+)
