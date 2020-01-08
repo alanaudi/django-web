@@ -1,3 +1,5 @@
+all: install webpack
+
 install:
 	yarn install
 
