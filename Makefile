@@ -1,10 +1,6 @@
-all: file static run
-
-file:
+all:
 	echo all > .venv
 	echo 8090 > port
-
-static:
 	# Install node modules
 	+$(MAKE) -C static
 

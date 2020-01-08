@@ -1,4 +1,4 @@
-all: install webpack
+all: install
 
 install:
 	yarn install
