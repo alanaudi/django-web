@@ -2,9 +2,8 @@
 
 ## Installation
 ```
-$ make
 $ source [path-to-venv]
-$ python managy.py runserver 0.0.0.0:[port]
+$ make
 
 $ cd static/
 $ make webpack
