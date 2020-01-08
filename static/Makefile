@@ -3,5 +3,5 @@ all: install
 install:
 	yarn install
 
-webpack:
+run:
 	yarn webpack
