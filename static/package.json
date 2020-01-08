@@ -2,6 +2,10 @@
   "name": "frontend",
   "version": "1.0.0",
   "main": "index.js",
+  "scripts": {
+    "webpack": "webpack"
+
+  },
   "author": "alanaudi <alanaudi.tw@gmail.com>",
   "license": "MIT",
   "devDependencies": {
